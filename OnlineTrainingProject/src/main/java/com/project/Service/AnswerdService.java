@@ -7,7 +7,7 @@ import com.project.Model.Answerd;
 import com.project.Repository.AnswerdRepository;
 
 
-@Component
+@Service
 public class AnswerdService {
 
 	@Autowired
